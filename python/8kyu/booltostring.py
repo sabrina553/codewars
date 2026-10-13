@@ -7,7 +7,7 @@ def boolean_to_string(b):
 
 # can be condensed into a simple return
 def alt_boolean_to_string(b):
-    return 'True' if b else 'false'
+    return 'True' if b else 'False'
 
 # can use str to convert type 
 def alt2_boolean_to_string(b):
